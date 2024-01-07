@@ -1,7 +1,10 @@
 const Home = () => {
     return (
         <div>
-            <h1>This home page</h1>
+            {/* <p>ekhanei puro page surute ja load korve ta dekhano hove</p>
+            <p>Boolink SEction</p>
+            <p>display section</p>
+            <p>show some hotel section</p> */}
         </div>
     );
 };
